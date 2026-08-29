@@ -7,13 +7,15 @@ LeetCode solutions synced automatically with LeetSync
 | Difficulty | Solved |
 | :--- | :--- |
 | 🟢 **Easy** | 1 |
-| 🟡 **Medium** | 0 |
+| 🟡 **Medium** | 1 |
 | 🔴 **Hard** | 0 |
-| 🏆 **Total** | **1** |
+| 🏆 **Total** | **2** |
 
 ### 💻 Languages
 
 | Language | Solved |
 | :--- | :--- |
-| C++ | 1 |
+| C++ | 2 |
+
+*Automated by [LeetSync](https://github.com/sameerahmad005/LeetSync)*
 <!-- LEETSYNC:END -->
